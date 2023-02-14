@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
 #!/bin/bash
 echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1))
->>>>>>> 9f48c1fc07c807d2d34f7253d9b2543f416ee72b
